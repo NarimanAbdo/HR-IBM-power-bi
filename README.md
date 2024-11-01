@@ -1,5 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/208af58b-b408-4c19-967f-ef4c68be020b)
 # Human Resources Project Analysis and Recommendations
 
 ## Questions
