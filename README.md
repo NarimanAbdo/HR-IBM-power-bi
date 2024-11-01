@@ -31,6 +31,6 @@
    - Utilize the varied experiences of employees who have worked in multiple companies by involving them in complex, skill-diverse projects to enhance engagement and retention.
 
 ## Data Sources and Credits
-This analysis uses data visualizations, employee data metrics sourced from the company's internal HR analytics dashboards, and HR analysis insights from various repositories and case studies on [GitHub](https://github.com/topics/hr-analytics).
+This analysis uses data visualizations, employee data metrics sourced from the company's internal HR analytics dashboards, and HR analysis insights. 
 
 ---
